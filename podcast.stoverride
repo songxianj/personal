@@ -2,5 +2,5 @@ name: apple podcast
 desc: apple podcast
 
 rules:
-  - DOMAIN,podcast.apple.com,PROXY
-  - DOMAIN,pdst.fm,PROXY
+  - DOMAIN,podcast.apple.com,Proxy
+  - DOMAIN,pdst.fm,Proxy
