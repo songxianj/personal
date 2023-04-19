@@ -5,4 +5,7 @@ rules:
   - DOMAIN,podcast.apple.com,Proxy
   - DOMAIN,pdst.fm,Proxy
   - DOMAIN,amp-api.podcasts.apple.com,Proxy
+  - DOMAIN,amp-api.books.apple.com,Proxy
   - DOMAIN,itunes.apple.com,Proxy
+  - DOMAIN,buy.itunes.apple.com,Proxy
+  
