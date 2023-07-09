@@ -1,0 +1,8 @@
+name: phish reject
+desc: phish reject
+
+rules:
+  - DOMAIN,lookup.api.bsb.baidu.com,REJECT
+  - DOMAIN-SUFFIX,urlsec.qq.com,REJECT
+  - DOMAIN,safebrowsing.urlsec.qq.com,REJECT
+  - DOMAIN,www.urlsec.qq.com,REJECT
