@@ -1,7 +1,11 @@
-- DOMAIN-SUFFIX,smart.pendy.dpdns.org,Asian TV
-- DOMAIN-SUFFIX,breezy-audrie-zspace-7524863c.koyeb.app,Asian TV
-- DOMAIN-SUFFIX,vrvwfasiyxst.ap-southeast-1.clawcloudrun.com,Asian TV
-- DOMAIN-SUFFIX,youtube.livednow.dpdns.org,Asian TV
-- DOMAIN-SUFFIX,docker.livednow.dpdns.org,Asian TV
-- DOMAIN-SUFFIX,globallive.tdm.com.mo,Asian TV
-- DOMAIN-SUFFIX,live.tvfix.org,Asian TV
+name: IPTV HK/TW
+desc: IPTV港台节点覆盖
+
+rules:
+  - DOMAIN-SUFFIX,smart.pendy.dpdns.org,Asian TV
+  - DOMAIN-SUFFIX,breezy-audrie-zspace-7524863c.koyeb.app,Asian TV
+  - DOMAIN-SUFFIX,vrvwfasiyxst.ap-southeast-1.clawcloudrun.com,Asian TV
+  - DOMAIN-SUFFIX,youtube.livednow.dpdns.org,Asian TV
+  - DOMAIN-SUFFIX,docker.livednow.dpdns.org,Asian TV
+  - DOMAIN-SUFFIX,globallive.tdm.com.mo,Asian TV
+  - DOMAIN-SUFFIX,live.tvfix.org,Asian TV
