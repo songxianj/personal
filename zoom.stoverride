@@ -1,0 +1,5 @@
+name: Zoom Area Detection
+desc: Zoom客户端检测区域
+
+rules:
+  - DOMAIN,www3.zoom.us,DIRECT
