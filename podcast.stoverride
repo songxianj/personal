@@ -2,7 +2,7 @@ name: apple podcast
 desc: apple podcast
 
 rules:
-  - DOMAIN,podcast.apple.com,Proxy
+  - DOMAIN,podcasts.apple.com,Proxy
   - DOMAIN,pdst.fm,Proxy
   - DOMAIN,amp-api.podcasts.apple.com,Proxy
   - DOMAIN,amp-api.books.apple.com,Proxy
@@ -10,4 +10,3 @@ rules:
   - DOMAIN,buy.itunes.apple.com,Proxy
   - DOMAIN,configuration.ls.apple.com,Proxy
   - DOMAIN,gspe1-ssl.ls.apple.com,Proxy
-
