@@ -1,0 +1,11 @@
+name: apple intelligence
+desc: apple intelligence
+
+rules:
+  - DOMAIN,guzzoni.apple.com,Proxy
+  - DOMAIN,*.smoot.apple.com,Proxy
+  - DOMAIN,apple-relay.cloudflare.com,Proxy
+  - DOMAIN,apple-relay.fastly-edge.com,Proxy
+  - DOMAIN,cp4.cloudflare.com,Proxy
+  - DOMAIN,apple-relay.apple.com,Proxy
+  - DOMAIN,gspe1-ssl.ls.apple.com,Proxy
